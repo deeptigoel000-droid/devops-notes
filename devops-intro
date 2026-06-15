@@ -2,3 +2,51 @@ Devops is culture, mindset which promote collaboration with dev and ops team to 
 
 we need devops because user need solution fast.
 patrik debois in 2009 bring devops
+
+calms framework
+c- communication and trust
+A - automating manual work
+l - lean - avoid waste and wait time
+m - measurement - use data to improve
+s - sharing knowledge and success
+
+lifecycle of software
+
+1) plan
+2) code
+3) build
+4) test
+5) release
+6) deploy
+7) operate
+8) monitor
+
+monitoring feedback into planning
+
+continuous delivery - need human intervention
+continuous deployment - automatic deployment witout human intervention
+
+cloud computing - provide services over internet.
+- it is pay as you go. 
+- scale when traffic spike
+- low upfront cost
+- increase innovation speed
+- global availability
+
+cloud service model 
+  - iaas - EC2 - manage os and app
+  - paas - web app - manage code
+  - saas - gmail, dropbox, team - manage data
+
+cloud deployment model
+- public - shared by many, cheap , effective
+- private - only for specific user, secured, expensive
+- hybrid - combination of both
+
+multi-cloud - using aws and azure at same time
+
+
+
+
+
+
